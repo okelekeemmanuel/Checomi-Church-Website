@@ -1,2 +1,2 @@
-# Checomi-Church-Website
-Responsive website for Christ Healing Covenant Int'l Ministry — featuring livestream, event calendar, and sermon page. Built with HTML, CSS &amp; JavaScript.
+# Christ Healing Covenant Int'l Ministry — Website
+A responsive website built for Christ Healing Covenant Int'l Ministry, designed to connect the church community online. Features a live stream section for services, an event calendar for upcoming programs, and a sermon page for on-demand messages. Developed using HTML, CSS, &amp; JavaScript with a clean, welcoming user experience.Responsive website for Christ Healing Covenant Int'l Ministry — featuring livestream, event calendar, and sermon page. 
